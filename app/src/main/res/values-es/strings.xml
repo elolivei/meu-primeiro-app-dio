@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Comienza un proyecto con Android Studio</string>
+    <string name="msg">Eso es todo</string>
+</resources>
